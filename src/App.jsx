@@ -1,9 +1,9 @@
 // App.jsx
 import React from 'react';
 import Header from './components/ Header';
-import Footer from './components/Footer';
-import MainContent from './components/MainContent';
-import UserProfile from './components/UserProfile';
+import Footer from './component/Footer';
+import MainContent from './component/MainContent';
+import UserProfile from './component/UserProfile';
 
 
 function App() {
